@@ -1,0 +1,35 @@
+.totals{
+	display: inline;
+	font-family: 'Fjalla One', sans-serif;
+	color: #333;
+	margin: 2px;
+}
+
+.heading{
+	font-family: 'Fjalla One', sans-serif;
+}
+
+.summary {
+	font-size: 1.4em;
+}
+
+hr{
+	border-color: #ddd;
+}
+
+td > a{
+	color: #ff1744;
+}
+
+table>tbody>tr:hover{
+	background-color: #fff;
+}
+
+td{
+	font-size: 1.4em;
+}
+
+.row-runs{
+	background-color: rgba(255,255,255,0.94);
+	padding: 10px 32px;
+}
